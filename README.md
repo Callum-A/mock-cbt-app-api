@@ -6,7 +6,7 @@
 4. [Inspiration](#inspiration)
 5. [Status](#status)
 ## General Info
-A CRUD API using NodeJS, Express and MongoDB as its stack. Allows users to register, login, add/update/delete thoughts including reasons for thoughts. Also provides authentication using JWT which authenticates if a user is logged in and an admin. Admins can view and delete users directly through the API. Also uses other frameworks/libraries for example bcrypt, mongoose and Joi.
+A REST API using NodeJS, Express and MongoDB as its stack. Allows users to register, login, add/update/delete thoughts including reasons for thoughts. Also provides authentication using JWT which authenticates if a user is logged in and an admin. Admins can view and delete users directly through the API. Also uses other frameworks/libraries for example bcrypt, mongoose and Joi.
 ## Technologies Used
 * JavaScript
 * NodeJS/Express
